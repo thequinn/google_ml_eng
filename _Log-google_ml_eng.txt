@@ -1,0 +1,17 @@
+
+Username:
+    student-02-5a4ccc019d01@qwiklabs.net
+
+Password:
+    x47VdKUNkOn0
+
+Project ID:
+    qwiklabs-gcp-03-a8ac178357c4
+
+// - - - - - - - - - - - - // - - - - - - - - - - - - //
+
+[100 Day of Challenge]
+
+Day 1, 20241108-F, 1h45m
+- Lec01, Lec02, 
+- Lec3: 1st vid
