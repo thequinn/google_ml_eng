@@ -12,6 +12,14 @@ Project ID:
 
 [100 Day of Challenge]
 
+Day 3, 20241125-M, 
+AI Dev Workflow 
+未: Recall vs Presion 
+->Quizz Question 4. & 6. 
+->Lecture: @3:40 https://www.cloudskillsboost.google/paths/17/course_templates/593/video/508328
+
+Day2: 20241124-Sun, 1h
+
 Day 1, 20241108-F, 1h45m
 - Lec01, Lec02, 
 - Lec3: 1st vid
