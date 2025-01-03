@@ -12,13 +12,21 @@ Project ID:
 
 [100 Day of Challenge]
 
-Day 3, 20241125-M, 
+
+Day 4, F, 20250103
+- Module 13. ntroduction to Generative AI
+- Module 14. Introduction to Large Language Models
+  未: Do the lab from the reading list
+  - Training Large Language Models on Google Cloud
+    hps://github.com/GoogleCloudPlaorm/llm-pipeline-examples
+
+Day 3, M, 20241125
 AI Dev Workflow 
 未: Recall vs Presion 
 ->Quizz Question 4. & 6. 
 ->Lecture: @3:40 https://www.cloudskillsboost.google/paths/17/course_templates/593/video/508328
 
-Day2: 20241124-Sun, 1h
+Day2, Sun, 20241124, 1h
 
 Day 1, 20241108-F, 1h45m
 - Lec01, Lec02, 
